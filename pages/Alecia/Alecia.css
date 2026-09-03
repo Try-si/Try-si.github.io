@@ -1,1 +1,106 @@
+#barG {
+    height: 100%;
+    width: 0.5%;
+    background-color: #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
 
+#barD {
+    height: 100%;
+    width: 0.5%;
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 99.5%;
+    right: 0;
+    z-index: 1000;
+}
+
+#header {
+    height: 10%;
+    background-color: #1e2f6b;
+    width: 99%;
+    position: fixed;
+    top: 0;
+    left: 0.5%;
+    right: 0;
+    z-index: 1000;
+}
+
+#content {
+    height: 90%;
+    background-color: #060043;
+    top: 10%;
+    position: fixed;
+    left: 0.5%;
+    right: 0;
+    z-index: 1000;
+}
+
+#footer {
+    height: 17%;
+    width: 99%;
+    background-color: #050032;
+    position: fixed;
+    bottom: 0%;
+    left: 0.5%;
+    right: 0;
+    z-index: 1000;
+}
+
+#header-icon {
+    width: 5%;
+    height: 100%;
+}
+
+#footer-text {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 17%;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+#header-Accueil {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 10%;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 54%;
+}
+
+#header-MyProject {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 10%;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+}
+
+#header-Alecia {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 10%;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 66%;
+}
