@@ -33,7 +33,7 @@
 
 #content {
     height: 90%;
-    background-color: #dd7c14;
+    background-color: #dd5a02;
     top: 10%;
     position: fixed;
     left: 0.5%;
@@ -44,7 +44,7 @@
 #footer {
     height: 17%;
     width: 99%;
-    background-color: #aa7c14;
+    background-color: #aa3800;
     position: fixed;
     bottom: 0%;
     left: 0.5%;
